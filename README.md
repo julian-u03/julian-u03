@@ -1,10 +1,10 @@
 # Hi, I'm Julian!
 
-This is my Portfolio
+I am a passionate programmer with a strong interest in data analysis and development. My main tools are Python, R, and Excel, which I use to explore data, build predictive models, and create APIs. While most of my experience comes from hobby projects and university work, I constantly challenge myself with new private projects that combine creativity, curiosity, and technical skill. Here on GitHub, I share some of the work that I truly enjoy doing — driven by the belief that learning never stops, especially when you're passionate about what you do.
 
 ## Data Analysis Projects:
 
-<img align="left" width="250" height="150" src="https://www.rhsmith.umd.edu/sites/default/files/research/featured/2022/11/soccer-player.jpg"> 
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/soccer.jpg"> 
 
 ### [World Cup Game Analysis](https://github.com/julian-u03/portfolio-data-science-r)
 
@@ -18,9 +18,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
+
+
 <br />
 
 ## Developer Projects
+
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/smarthome.jpg"> 
+
+### [Smarthome with voice control](https://github.com/julian-u03/portfolio-data-science-r)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
 <br />
 
