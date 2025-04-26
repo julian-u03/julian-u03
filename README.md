@@ -22,5 +22,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Certificates
 
-[Data Analyst in R by DataCamp](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-[Data Scientist in R by DataCamp](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+ - [Data Analyst in R by DataCamp](https://github.com/julian-u03/julian-u03/blob/main/certificates/Data%20Analyst%20in%20R.pdf)
+ - [Data Scientist in R by DataCamp](https://github.com/julian-u03/julian-u03/blob/main/certificates/Data%20Scientist%20in%20R.pdf)
