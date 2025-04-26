@@ -6,19 +6,41 @@ I am a passionate programmer with a strong interest in data analysis and develop
 
 <img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/soccer.jpg"> 
 
-### [World Cup Game Analysis](https://github.com/julian-u03/portfolio-data-science-r)
+### [Vizualisation of player stats in R](https://github.com/julian-u03/portfolio-data-science-r)
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
 #
 
-<img align="right" width="250" height="150" src="https://www.rhsmith.umd.edu/sites/default/files/research/featured/2022/11/soccer-player.jpg">
+<img align="right" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/tips.jpg">
 
-### [World Cup Game Analysis](https://github.com/julian-u03/portfolio-data-science-r)
+### [Prediction of tip amount in R](https://github.com/julian-u03/portfolio-data-science-r)
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
+#
 
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/weather.jpg"> 
+
+### [API to collect weather data in Python](https://github.com/julian-u03/portfolio-data-science-r)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
+
+#
+
+<img align="right" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/music.jpg">
+
+### [Data Analysis for music development in Python](https://github.com/julian-u03/portfolio-data-science-r)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/sustainability.jpg"> 
+
+### [Sustainability analysis in Excel](https://github.com/julian-u03/portfolio-data-science-r)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
 <br />
 
