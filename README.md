@@ -14,7 +14,7 @@ This repository presents a variety of dynamic data visualizations based on EAFC2
 
 <img align="right" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/tips.jpg">
 
-### [Tipping the Scale: A Machine Learning Dive Into Restaurant Data](https://github.com/julian-u03/portfolio-data-science-r)
+### [Tipping the Scale: A Machine Learning Dive Into Restaurant Data](https://github.com/julian-u03/project-prediction-tip-amount)
 
 This repository contains a machine learning project focused on predicting the tip amount based on features such as total bill, customer gender, smoking status, day of the week, time of day, and group size. The project includes data preprocessing, exploratory data analysis, model training and evaluation. The goal is to build an accurate and interpretable model to assist in understanding tipping behavior.
 
