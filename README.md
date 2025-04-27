@@ -8,7 +8,7 @@ I am a passionate programmer with a strong interest in data analysis and develop
 
 ### [Exploring the Game: A Visual Journey Through EAFC24 Player Stats](https://github.com/julian-u03/project-visualization-eafc24-player-stats)
 
-This repository showcases diverse data visualizations based on EAFC24 player statistics. Using R, I extract, transform, and visually explore key attributes from a database to create insightful graphics. These projects highlight my ability to design compelling visual narratives and apply various visualization techniques to sports data.
+This repository presents a variety of dynamic data visualizations based on EAFC24 player statistics. Using R, I extract, transform, and explore key attributes from a database to create insightful, engaging graphics. The showcased projects highlight my ability to design compelling visual narratives, apply a wide range of visualization techniques, and effectively communicate complex patterns in sports data analytics.
 
 #
 
