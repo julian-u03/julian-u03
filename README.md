@@ -6,9 +6,9 @@ I am a passionate programmer with a strong interest in data analysis and develop
 
 <img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/soccer.jpg"> 
 
-### [Vizualisation of player stats in R](https://github.com/julian-u03/portfolio-data-science-r)
+### [Exploring the Game: A Visual Journey Through EAFC24 Player Stats](https://github.com/julian-u03/project-visualization-eafc24-player-stats)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
+This repository showcases diverse data visualizations based on EAFC24 player statistics. Using R, I extract, transform, and visually explore key attributes from a database to create insightful graphics. These projects highlight my ability to design compelling visual narratives and apply various visualization techniques to sports data.
 
 #
 
