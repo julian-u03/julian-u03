@@ -1,3 +1,5 @@
+<img width="100%" src="https://github.com/julian-u03/julian-u03/blob/main/images/Background.png"> 
+
 # Hi, I'm Julian!
 
 I am a passionate programmer with a strong interest in data analysis and development. My main tools are Python, R, and Excel, which I use to explore data, build predictive models, and create APIs. While most of my experience comes from hobby projects and university work, I constantly challenge myself with new private projects that combine creativity, curiosity, and technical skill. Here on GitHub, I share some of the work that I truly enjoy doing — driven by the belief that learning never stops, especially when you're passionate about what you do.
