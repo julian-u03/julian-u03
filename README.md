@@ -6,19 +6,41 @@ I am a passionate programmer with a strong interest in data analysis and develop
 
 <img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/soccer.jpg"> 
 
-### [World Cup Game Analysis](https://github.com/julian-u03/portfolio-data-science-r)
+### [Exploring the Game: A Visual Journey Through EAFC24 Player Stats](https://github.com/julian-u03/project-visualization-eafc24-player-stats)
+
+This repository presents a variety of dynamic data visualizations based on EAFC24 player statistics. Using R, I extract, transform, and explore key attributes from a database to create insightful, engaging graphics. The showcased projects highlight my ability to design compelling visual narratives, apply a wide range of visualization techniques, and effectively communicate complex patterns in sports data analytics.
+
+#
+
+<img align="right" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/tips.jpg">
+
+### [Tipping the Scale: A Machine Learning Dive Into Restaurant Data](https://github.com/julian-u03/project-prediction-tip-amount)
+
+This repository contains a machine learning project focused on predicting the tip amount based on features such as total bill, customer gender, smoking status, day of the week, time of day, and group size. The project includes data preprocessing, exploratory data analysis, model training and evaluation. The goal is to build an accurate and interpretable model to assist in understanding tipping behavior.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/weather.jpg"> 
+
+### [API to collect weather data in Python](https://github.com/julian-u03/portfolio-data-science-r)
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
 #
 
-<img align="right" width="250" height="150" src="https://www.rhsmith.umd.edu/sites/default/files/research/featured/2022/11/soccer-player.jpg">
+<img align="right" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/music.jpg">
 
-### [World Cup Game Analysis](https://github.com/julian-u03/portfolio-data-science-r)
+### [Data Analysis for music development in Python](https://github.com/julian-u03/portfolio-data-science-r)
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
+#
 
+<img align="left" width="250" height="150" src="https://github.com/julian-u03/julian-u03/blob/main/images/sustainability.jpg"> 
+
+### [Sustainability analysis in Excel](https://github.com/julian-u03/portfolio-data-science-r)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labor.
 
 <br />
 
